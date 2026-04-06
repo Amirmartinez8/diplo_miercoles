@@ -1,1 +1,4 @@
 Bananas
+buscador
+footer
+acentos
