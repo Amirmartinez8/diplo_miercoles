@@ -1,0 +1,13 @@
+.my-navbar {
+    background-color: gray;
+}
+
+#carouselExampleCaptions {
+    max-width: 800px;
+    margin: auto;
+}
+
+.carousel-item img {
+    height: 400px;
+    object-fit: cover;
+}
